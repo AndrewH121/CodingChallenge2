@@ -6,7 +6,7 @@ Objective: This exercise will test your knowledge of conditionals and logic by c
 Step 1: Copy Over Coding Challenge Solution 1 solution to a new swift file in a separate repository named "Coding Challenge Solution 2".
 
 
-Step 2: Implement New Feature Recommendation System
+Step 2: Implement a New Feature Recommendation System after your Coding Challenge Solution 1 code, in your new swift file located in your new Coding Challenge Solution 2 repository.
 - Create a new variable recommendation (String) to store the recommendation message.
 Using conditional statements, determine the recommendation based on the userRating:
 - If the rating is 4.5 or higher, set recommendation to "Highly Recommended".
