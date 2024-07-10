@@ -1,9 +1,8 @@
 # CodingChallenge2
 
-Objective
-This exercise will test your knowledge of conditionals and logic by creating a feature in a theoretical app that provides recommendations based on user ratings and reviews.
+Objective: This exercise will test your knowledge of conditionals and logic by creating a feature in a theoretical app that provides recommendations based on user ratings and reviews.
 
-Instructions
+
 Step 1: Copy Over Coding Challenge Solution 1 solution to a new swift file in a separate repository named "Coding Challenge Solution 2".
 
 
